@@ -1,10 +1,10 @@
 {
   "name": "promise.bar",
-  "version": "0.1.5",
+  "version": "0.2.5",
   "description": "Progress bar to animate the status of Promise.all",
   "main": "PromiseBar.js",
   "scripts": {
-    "test": "mocha --compilers coffee:coffee-script/register"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -28,16 +28,13 @@
     "cli"
   ],
   "devDependencies": {
-    "chai": "^3.5.0",
-    "child-process-promise": "^2.2.0",
-    "codo": "^2.1.2",
-    "coffee-script": "^1.12.3",
-    "flour": "^0.5.8",
-    "mocha": "^3.2.0"
+    "chai": "^4.3.4",
+    "child-process-promise": "^2.2.1",
+    "mocha": "^8.3.2"
   },
   "dependencies": {
     "ansi": "^0.3.1",
-    "pathval": "^1.1.0",
-    "strip-ansi": "^3.0.1"
+    "pathval": "^1.1.1",
+    "strip-ansi": "^6.0.0"
   }
 }
