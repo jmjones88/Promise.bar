@@ -1,5 +1,5 @@
 {
-  "name": "promise.bar",
+  "name": "@jmjones88/promise.bar",
   "version": "0.2.5",
   "description": "Progress bar to animate the status of Promise.all",
   "main": "PromiseBar.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CodeLenny/Promise.bar.git"
+    "url": "git+https://github.com/jmjones88/Promise.bar.git"
   },
   "author": "Ryan Leonard (https://ryanleonard.us)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/CodeLenny/Promise.bar/issues"
+    "url": "https://github.com/jmjones88/Promise.bar/issues"
   },
-  "homepage": "https://github.com/CodeLenny/Promise.bar#readme",
+  "homepage": "https://github.com/jmjones88/Promise.bar#readme",
   "keywords": [
     "progress-bar",
     "progressbar",
